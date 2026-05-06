@@ -1,0 +1,1 @@
+C:\Users\<YOUR_USERNAME>\.ollama\
